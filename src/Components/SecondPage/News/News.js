@@ -6,6 +6,8 @@ import "./News.css";
 const News = () => {
   return (
     <div>
+      <hr></hr>
+      <hr></hr>
       <img src={covid} alt="Covid" />
     </div>
   );
