@@ -1,0 +1,8 @@
+.covid {
+    background-image: url(./covid.jpeg);
+  }
+
+img {
+  width: 100%;
+  height: 200px;
+}

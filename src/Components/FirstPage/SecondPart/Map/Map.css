@@ -1,0 +1,7 @@
+.Map {
+    margin-top: 1em;
+    height: 500px;
+    box-shadow: 0 0 10px 7px black;
+    background-color: white;
+    border-radius: 10px;
+}

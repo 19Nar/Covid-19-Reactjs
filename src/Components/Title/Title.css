@@ -1,0 +1,26 @@
+.nav.nav.navbar.navbar-expand-md.navbar-light {
+  width: 100%;
+}
+
+.link {
+  padding: 0 1.5em;
+  margin-right: 1.5em;
+  color: white;
+  box-shadow: 0 0 3px 3px white;
+}
+
+.nav {
+  background-color: black;
+}
+
+a.mx-3.link:hover {
+  color: grey;
+}
+
+.link:hover {
+  color: grey;
+}
+
+.navbar-light .navbar-toggler-icon {
+  background-color: white;
+}

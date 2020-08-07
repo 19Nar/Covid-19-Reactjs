@@ -1,0 +1,9 @@
+.Confirmed {
+    height: 100px;
+    box-shadow: 0 0 10px 7px black;
+    background-color: white;
+    border-radius: 10px;
+    padding: 1em;
+    margin-left: 1em;
+    margin-bottom: 2em;
+}
