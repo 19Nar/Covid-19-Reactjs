@@ -3,22 +3,22 @@ import React, { useState, useEffect } from "react";
 import CardResults from "./CardResults"
 
 const FetchCardResults = () => {
-    const [items, setCardResults] = useState([]);
+    const [cardresults, setCardResults] = useState([]);
 
     useEffect(() => {
       fetch(`https://corona.lmao.ninja/v2/countries`)
         .then((response) => response.json())
-        .then((response) => {
-          console.log(response);
-          setCardResults(response.data);
+        .then((data) => {
+          console.log(data);
+          setCardResults(data);
         });
     }, []);
   
     return (
         <div> 
-            {items &&
-          items.map((item) => (
-            <CardResults items={item} key={item.id} />
+            {cardresults &&
+          cardresults.map((cardresult) => (
+            <CardResults cardresults={cardresult} key={cardresult.id} />
           ))}
       </div>
     );
