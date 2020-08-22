@@ -14,14 +14,13 @@ const App = (props) => (
       <Route exact path="/">
         <FirstPage />
       </Route>
-      <Route exact path="/news">
+      <Route path="/news">
         <News />
       </Route>
       <Route path="/vaccination">
         <Vaccination />
       </Route>
     </Switch>
-
     <Footer />
   </Router>
 );
