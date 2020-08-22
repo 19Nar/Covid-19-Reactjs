@@ -9,11 +9,8 @@ import "./FirstPage.css";
 
 const FirstPage = () => (
   <div>
-     <hr></hr>
-     <hr></hr>
-     <hr></hr>
      <Container>
-      <Row className={"FirstPage"}>
+      <Row className="FirstPage">
         <CardBlock />
         <Map />
         <AllCases />
