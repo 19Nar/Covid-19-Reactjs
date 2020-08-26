@@ -1,6 +1,6 @@
 import React from 'react'
 
-const CardResults = () => {
+function MapResults() {
     return (
         <div>
             
@@ -8,4 +8,5 @@ const CardResults = () => {
     )
 }
 
-export default CardResults
+export default MapResults
+

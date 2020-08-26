@@ -1,7 +1,7 @@
 import React from 'react';
 import { Col } from "reactstrap";
 
-import "./Map.css"
+import "../DesignMap/Map.css"
 
 const Map = () => (
     
