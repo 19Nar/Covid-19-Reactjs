@@ -4,6 +4,7 @@ import { Container, Row } from "reactstrap";
 import Card from "./FirstPart/CodingCard/CardBlock";
 import Map from "./SecondPart/CodingMap/Map";
 import AllCases from "./ThirdPart/AllCases";
+import Chart from "./FourthPart/CodingChart/Chart";
 
 import "./FirstPage.css";
 
@@ -14,6 +15,7 @@ const FirstPage = () => (
         <Card />
         <Map />
         <AllCases />
+        <Chart />
       </Row>
     </Container>
   </div>

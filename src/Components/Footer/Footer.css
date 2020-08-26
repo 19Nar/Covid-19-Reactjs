@@ -1,5 +1,5 @@
 .foot {
-    background-color: black;
+    background-color: whitesmoke;
     position: relative;
     padding: 0.5em;
     text-decoration: none;
@@ -7,9 +7,17 @@
     width: 100%;
   }
   .footer a {
-      color: white;
+      color: navy;
       margin-left: 35em;
   }
   .footer a:hover {
     color: grey;
+  }
+
+  .social a img {
+    width: 2.8rem;
+    margin-right: 1em;
+    margin-top: 1em;
+    border-radius: 3rem;
+    height: 2.8rem;
   }
