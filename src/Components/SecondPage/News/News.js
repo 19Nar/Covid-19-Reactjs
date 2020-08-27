@@ -1,14 +1,12 @@
 import React from "react";
-import covid from "./covid.jpeg";
+//import covid from "./../photos/covid.jpeg";  <img src={covid} alt="Covid" />
 
-import "./News.css";
+//import "./News.css";
 
 const News = () => {
   return (
     <div>
-      <hr></hr>
-      <hr></hr>
-      <img src={covid} alt="Covid" />
+      News
     </div>
   );
 }

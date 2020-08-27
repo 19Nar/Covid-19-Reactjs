@@ -5,7 +5,7 @@ import "./Vaccination.css"
 const Vaccination = () => {
     return (
         <div>
-            
+          Vaccination  
         </div>
     )
 }
