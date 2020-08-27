@@ -1,26 +1,32 @@
 {
   "files": {
-    "main.css": "/Covid-19-Reactjs/static/css/main.84ff540b.chunk.css",
-    "main.js": "/Covid-19-Reactjs/static/js/main.f7bb12d1.chunk.js",
-    "main.js.map": "/Covid-19-Reactjs/static/js/main.f7bb12d1.chunk.js.map",
+    "main.css": "/Covid-19-Reactjs/static/css/main.97e1f4b6.chunk.css",
+    "main.js": "/Covid-19-Reactjs/static/js/main.325533c9.chunk.js",
+    "main.js.map": "/Covid-19-Reactjs/static/js/main.325533c9.chunk.js.map",
     "runtime-main.js": "/Covid-19-Reactjs/static/js/runtime-main.b93f705a.js",
     "runtime-main.js.map": "/Covid-19-Reactjs/static/js/runtime-main.b93f705a.js.map",
     "static/css/2.11829350.chunk.css": "/Covid-19-Reactjs/static/css/2.11829350.chunk.css",
-    "static/js/2.00390456.chunk.js": "/Covid-19-Reactjs/static/js/2.00390456.chunk.js",
-    "static/js/2.00390456.chunk.js.map": "/Covid-19-Reactjs/static/js/2.00390456.chunk.js.map",
+    "static/js/2.6a7d9224.chunk.js": "/Covid-19-Reactjs/static/js/2.6a7d9224.chunk.js",
+    "static/js/2.6a7d9224.chunk.js.map": "/Covid-19-Reactjs/static/js/2.6a7d9224.chunk.js.map",
     "index.html": "/Covid-19-Reactjs/index.html",
-    "precache-manifest.67ad6759dce4483692001d68dded47fb.js": "/Covid-19-Reactjs/precache-manifest.67ad6759dce4483692001d68dded47fb.js",
+    "precache-manifest.0a4806101fff54e3c65272e46f3749b5.js": "/Covid-19-Reactjs/precache-manifest.0a4806101fff54e3c65272e46f3749b5.js",
     "service-worker.js": "/Covid-19-Reactjs/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/Covid-19-Reactjs/static/css/2.11829350.chunk.css.map",
-    "static/css/main.84ff540b.chunk.css.map": "/Covid-19-Reactjs/static/css/main.84ff540b.chunk.css.map",
-    "static/js/2.00390456.chunk.js.LICENSE.txt": "/Covid-19-Reactjs/static/js/2.00390456.chunk.js.LICENSE.txt",
-    "static/media/News.css": "/Covid-19-Reactjs/static/media/covid.96d9ca72.jpeg"
+    "static/css/main.97e1f4b6.chunk.css.map": "/Covid-19-Reactjs/static/css/main.97e1f4b6.chunk.css.map",
+    "static/js/2.6a7d9224.chunk.js.LICENSE.txt": "/Covid-19-Reactjs/static/js/2.6a7d9224.chunk.js.LICENSE.txt",
+    "static/media/call.jpg": "/Covid-19-Reactjs/static/media/call.22e9cedd.jpg",
+    "static/media/News.css": "/Covid-19-Reactjs/static/media/covid.96d9ca72.jpeg",
+    "static/media/domain.jpg": "/Covid-19-Reactjs/static/media/domain.0e74901b.jpg",
+    "static/media/facebook.jpg": "/Covid-19-Reactjs/static/media/facebook.4d09bcf2.jpg",
+    "static/media/insta.jpg": "/Covid-19-Reactjs/static/media/insta.a3d04644.jpg",
+    "static/media/linkedin.jpg": "/Covid-19-Reactjs/static/media/linkedin.eb47377c.jpg",
+    "static/media/twitter.jpg": "/Covid-19-Reactjs/static/media/twitter.6eaad5d6.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.b93f705a.js",
     "static/css/2.11829350.chunk.css",
-    "static/js/2.00390456.chunk.js",
-    "static/css/main.84ff540b.chunk.css",
-    "static/js/main.f7bb12d1.chunk.js"
+    "static/js/2.6a7d9224.chunk.js",
+    "static/css/main.97e1f4b6.chunk.css",
+    "static/js/main.325533c9.chunk.js"
   ]
 }
